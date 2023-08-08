@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0603281-f106-48a1-89de-ea622279ca8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/FileMaxSizeReachedException/FileMaxSizeReachedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/Logger/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/Logger/MyLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/Logger/StdoutLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/LoggerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/LoggerConfigurationLoader/FileLoggerConfigurationLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/LoggerConfigurationLoader/LoggerConfigurationLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/LoggerConfigurationLoader/StdoutLoggerConfigurationLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/LoggingLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/configFile/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/logFile/log_07.08.2023-01:19:19:0295.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/logFile/log_07.08.2023-01:20:06:0445.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/logFile/log_07.08.2023-01:20:06:0464.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/logFile/log_07.08.2023-01:20:06:0473.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/logFile/log_07.08.2023-01:20:06:0482.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/logFile/log_15.05.2023-02:41:11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger/logFile/log_15.05.2023-02:42:25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ua/hillel/mymathlib/MathLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ua/hillel/myFileLogger/Logger/FileLoggerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ua/hillel/myFileLogger/config_test/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ua/hillel/myFileLogger/config_test/config_DEBUG.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ua/hillel/mymathlib/MathLibraryTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TNpzFqYORRTtYZ6vMVSTPyh5d6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/nazar/IdeaProjects/file-logger-base-math-operations/src/test/java/ua/hillel/myFileLogger/forCase",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ua.hillel.myFileLogger.LoggerConfigurationLoader" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/ua/hillel/myFileLogger/forCase" />
+      <recent name="$PROJECT_DIR$/src/test/java/ua/hillel/myFileLogger/config_test" />
+      <recent name="$PROJECT_DIR$/src/test/java/ua/hillel/myFileLogger/logFile_test" />
+      <recent name="$PROJECT_DIR$/src/main/java/ua/hillel/myFileLogger" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MathLibraryTest">
+    <configuration name="FileLoggerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="file-logger-base-math-operations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.hillel.myFileLogger.Logger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.hillel.myFileLogger.Logger" />
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.myFileLogger.Logger.FileLoggerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileLoggerTest.FileMaxSizeReachedExceptionTest_throwException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="file-logger-base-math-operations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.hillel.myFileLogger.Logger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.hillel.myFileLogger.Logger" />
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.myFileLogger.Logger.FileLoggerTest" />
+      <option name="METHOD_NAME" value="FileMaxSizeReachedExceptionTest_throwException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileLoggerTest.debugTest_ifLevelIsINFO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="file-logger-base-math-operations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.hillel.myFileLogger.Logger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.hillel.myFileLogger.Logger" />
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.myFileLogger.Logger.FileLoggerTest" />
+      <option name="METHOD_NAME" value="debugTest_ifLevelIsINFO" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileLoggerTest.writeToLogFileTest_successNewFileCreation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="file-logger-base-math-operations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.hillel.myFileLogger.Logger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.hillel.myFileLogger.Logger" />
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.myFileLogger.Logger.FileLoggerTest" />
+      <option name="METHOD_NAME" value="writeToLogFileTest_successNewFileCreation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathLibraryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="file-logger-base-math-operations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.hillel.mymathlib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ua.hillel.mymathlib" />
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.mymathlib.MathLibraryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MathLibraryTest" />
+        <item itemvalue="JUnit.FileLoggerTest" />
+        <item itemvalue="JUnit.FileLoggerTest.FileMaxSizeReachedExceptionTest_throwException" />
+        <item itemvalue="JUnit.FileLoggerTest.writeToLogFileTest_successNewFileCreation" />
+        <item itemvalue="JUnit.FileLoggerTest.debugTest_ifLevelIsINFO" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0603281-f106-48a1-89de-ea622279ca8f" name="Changes" comment="" />
+      <created>1690893655751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690893655751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="message.value" />
+        <watch expression="message.value" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/file_logger_base_math_operations$MathLibraryTest.ic" NAME="MathLibraryTest Coverage Results" MODIFIED="1690896876647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.hillel.mymathlib.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/file_logger_base_math_operations$FileLoggerTest_testDebugLogging.ic" NAME="FileLoggerTest.testDebugLogging Coverage Results" MODIFIED="1691335451799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.hillel.myFileLogger.Logger.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/file_logger_base_math_operations$FileLoggerTest_debugTest_success.ic" NAME="FileLoggerTest.debugTest_success Coverage Results" MODIFIED="1691415011284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.hillel.myFileLogger.Logger.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/file_logger_base_math_operations$FileLoggerTest.ic" NAME="FileLoggerTest Coverage Results" MODIFIED="1691422339624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.hillel.myFileLogger.Logger.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/file_logger_base_math_operations$FileLoggerTest_infoTest_success.ic" NAME="FileLoggerTest.infoTest_success Coverage Results" MODIFIED="1691335579195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ua.hillel.myFileLogger.Logger.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+FILE: /Users/nazar/IdeaProjects/file-logger-base-math-operations/src/main/java/ua/hillel/myFileLogger/logFile/log_07.08.2023-01:20:06:0482.txt
+LEVEL: DEBUG
+MAX-SIZE: 1200
+FORMAT: [%s][%s] Повідомлення - [%s]
